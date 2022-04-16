@@ -23,3 +23,6 @@ No requirements.
 ## Outputs
 
 No output.
+| Name | Description |
+|------|-------------|
+| alb\_dns | the DNS name of the load balancer |
