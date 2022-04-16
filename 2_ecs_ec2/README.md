@@ -1,4 +1,4 @@
-No requirements.
+![diagram](https://raw.githubusercontent.com/thaunghtike-share/ecs-hoc-project/main/2_ecs_ec2/ECS_EC2.png)
 
 ## Providers
 
